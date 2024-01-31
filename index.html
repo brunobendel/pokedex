@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pokedex</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="container" id="card-body">
+      <div id="card-body" class="d-flex justify-content-center align-items-center" style="height: 100vh; margin-top: 0">
+        <div class="card">
+          <div class="card text-bg-dark container-lg" style="width: 25rem; padding: 0">
+            <div class="card-header text-center">Pokemons</div>
+            <div id="img" class="load-charts card-img-top text-center"></div>
+            <div class="card-body justify-content-between">
+              <div id="name" class="card-title"></div>
+              <div id="type" class="card-text"></div>
+              <li id="height" class="list-group-item"></li>
+              <li id="weight" class="list-group-item"></li>
+              <li id="next_evolution" class="list-group-item"></li>
+              <div style="display: flex; justify-content: center">
+                <button id="back" type="button" class="card-link btn btn-link">
+                  Back
+                </button>
+                <button id="next" type="button" class="card-link btn btn-link">
+                  Next
+                </button>
+              </div>
+              <input type="text" id="search" style="width: max-content;"  placeholder="Search Pokémon by name">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="jquery.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
