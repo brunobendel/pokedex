@@ -2,6 +2,10 @@
 
 Bem-vindo à minha Pokédex, uma aplicação desenvolvida como parte do meu portfólio para exibir minhas habilidades em desenvolvimento web.
 
+<p align="center">
+  <img alt="projeto cartao_visita" src=".github/site.jpg" width="100%">
+</p>
+
 ## Visão Geral
 
 A Pokédex é uma aplicação web que permite aos usuários explorar e aprender sobre diferentes Pokémon. Ela oferece uma interface amigável, informações detalhadas sobre cada Pokémon, e uma busca eficiente para encontrar seus favoritos.
