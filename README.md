@@ -3,7 +3,7 @@
 Bem-vindo à minha Pokédex, uma aplicação desenvolvida como parte do meu portfólio para exibir minhas habilidades em desenvolvimento web.
 
 <p align="center">
-  <img alt="projeto cartao_visita" src=".github/site.jpg" width="100%">
+  <img alt="projeto pokedex" src=".github/site.jpg" width="100%">
 </p>
 
 ## Visão Geral
