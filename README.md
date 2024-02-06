@@ -5,6 +5,7 @@ Bem-vindo à minha Pokédex, uma aplicação desenvolvida como parte do meu port
 <p align="center">
   <img alt="projeto pokedex" src=".github/site.jpg" width="100%">
 </p>
+![Imagem 1](.github/site.jpg)
 
 ## Visão Geral
 
